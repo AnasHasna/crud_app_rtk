@@ -1,0 +1,29 @@
+.post-card {
+  max-width: 400px;
+  margin-bottom: 1rem;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+  padding: 1rem;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.card-text {
+  color: #6c757d;
+  margin-bottom: 1rem;
+}
+
+.btn-group {
+  margin-top: 0.5rem;
+}
+
+.btn {
+  margin-right: 0.5rem;
+}
